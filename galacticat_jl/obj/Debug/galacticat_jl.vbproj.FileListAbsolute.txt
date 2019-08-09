@@ -1,0 +1,13 @@
+C:\Users\RealProgramming4Kids\Desktop\galacticat_jl\galacticat_jl\bin\Debug\galacticat_jl.exe.config
+C:\Users\RealProgramming4Kids\Desktop\galacticat_jl\galacticat_jl\bin\Debug\galacticat_jl.exe
+C:\Users\RealProgramming4Kids\Desktop\galacticat_jl\galacticat_jl\bin\Debug\galacticat_jl.pdb
+C:\Users\RealProgramming4Kids\Desktop\galacticat_jl\galacticat_jl\bin\Debug\galacticat_jl.xml
+C:\Users\RealProgramming4Kids\Desktop\galacticat_jl\galacticat_jl\obj\Debug\galacticat_jl.Resources.resources
+C:\Users\RealProgramming4Kids\Desktop\galacticat_jl\galacticat_jl\obj\Debug\galacticat_jl.vbproj.GenerateResource.Cache
+C:\Users\RealProgramming4Kids\Desktop\galacticat_jl\galacticat_jl\obj\Debug\galacticat_jl.exe
+C:\Users\RealProgramming4Kids\Desktop\galacticat_jl\galacticat_jl\obj\Debug\galacticat_jl.xml
+C:\Users\RealProgramming4Kids\Desktop\galacticat_jl\galacticat_jl\obj\Debug\galacticat_jl.pdb
+C:\Users\RealProgramming4Kids\Desktop\galacticat_jl\galacticat_jl\obj\Debug\galacticat_jl.MainForm.resources
+C:\Users\RealProgramming4Kids\Desktop\galacticat_jl\galacticat_jl\obj\Debug\galacticat_jl.titleScreen.resources
+C:\Users\RealProgramming4Kids\Desktop\galacticat_jl\galacticat_jl\obj\Debug\galacticat_jl.winForm.resources
+C:\Users\RealProgramming4Kids\Desktop\galacticat_jl\galacticat_jl\obj\Debug\galacticat_jl.youLose.resources
